@@ -27,7 +27,7 @@
 > - 추후 실제 K-MOOC 등 교육을 공급 가능한 교육매체들이 평생학습자 역량 자극을 위해 제공하는 교육들이 학습 주체들의 실시간적 관심사를 반영하고 있는지, 서점의 실시간적 데이터와 K-MOOC 제공 강의 데이터의 의미 관계성을 탐색해보고 싶음
 
 **[성과]**
->
+> - 장려상 수상
 ![image](https://github.com/SilverStream-Cho/SilverStream-Cho/assets/130419593/adabed8d-e17e-47fa-b270-9f2a5a896d6d)
 
 ---
