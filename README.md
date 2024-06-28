@@ -31,7 +31,6 @@
 ![image](https://github.com/SilverStream-Cho/SilverStream-Cho/assets/130419593/adabed8d-e17e-47fa-b270-9f2a5a896d6d)
 
 ---
----
 ## 2. (2023년 하반기) Dart-B 학술제 - 의료 주제분야(6인 팀)
 
 ### 😷 이번주 아토피 위험 지수 예측모델 분석
